@@ -1,0 +1,2215 @@
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 100
+Time to sort 100 elements 64 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 100
+Time to sort 100 elements 59 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 100
+Time to sort 100 elements 60 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 100
+Time to sort 100 elements 56 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 100
+Time to sort 100 elements 64 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 100
+Time to sort 100 elements 0 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 1000
+Time to sort 1000 elements 2 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 1000
+Time to sort 1000 elements 2 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 1000
+Time to sort 1000 elements 2 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 1000
+Time to sort 1000 elements 2 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 1000
+Time to sort 1000 elements 2 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 1000
+Time to sort 1000 elements 1 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 1000
+Time to sort 1000 elements 106 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 1000
+Time to sort 1000 elements 108 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 1000
+Time to sort 1000 elements 108 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 1000
+Time to sort 1000 elements 106 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 1000
+Time to sort 1000 elements 103 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 1000
+Time to sort 1000 elements 0 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 10000
+Time to sort 10000 elements 211 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 10000
+Time to sort 10000 elements 215 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 10000
+Time to sort 10000 elements 201 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 10000
+Time to sort 10000 elements 216 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 10000
+Time to sort 10000 elements 206 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 10000
+Time to sort 10000 elements 121 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 10000
+Time to sort 10000 elements 121 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 10000
+Time to sort 10000 elements 124 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 10000
+Time to sort 10000 elements 116 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 10000
+Time to sort 10000 elements 121 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 10000
+Time to sort 10000 elements 214 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 10000
+Time to sort 10000 elements 199 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 10000
+Time to sort 10000 elements 206 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 10000
+Time to sort 10000 elements 204 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 10000
+Time to sort 10000 elements 201 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 10000
+Time to sort 10000 elements 1 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 10000
+Time to sort 10000 elements 1 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 10000
+Time to sort 10000 elements 1 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 10000
+Time to sort 10000 elements 1 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 10000
+Time to sort 10000 elements 1 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 10000
+Time to sort 10000 elements 1 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 10000
+Time to sort 10000 elements 156 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 10000
+Time to sort 10000 elements 150 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 10000
+Time to sort 10000 elements 164 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 10000
+Time to sort 10000 elements 170 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 10000
+Time to sort 10000 elements 167 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 10000
+Time to sort 10000 elements 0 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 50000
+Time to sort 50000 elements 5518 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 50000
+Time to sort 50000 elements 5408 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 50000
+Time to sort 50000 elements 5404 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 50000
+Time to sort 50000 elements 5439 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 50000
+Time to sort 50000 elements 5221 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 50000
+Time to sort 50000 elements 3709 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 50000
+Time to sort 50000 elements 3540 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 50000
+Time to sort 50000 elements 3515 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 50000
+Time to sort 50000 elements 3537 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 50000
+Time to sort 50000 elements 3620 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 50000
+Time to sort 50000 elements 5091 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 50000
+Time to sort 50000 elements 5058 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 50000
+Time to sort 50000 elements 5030 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 50000
+Time to sort 50000 elements 5208 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 50000
+Time to sort 50000 elements 5079 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 50000
+Time to sort 50000 elements 4 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 50000
+Time to sort 50000 elements 4 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 50000
+Time to sort 50000 elements 5 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 50000
+Time to sort 50000 elements 4 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 50000
+Time to sort 50000 elements 5 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 50000
+Time to sort 50000 elements 12 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 50000
+Time to sort 50000 elements 11 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 50000
+Time to sort 50000 elements 10 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 50000
+Time to sort 50000 elements 8 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 50000
+Time to sort 50000 elements 8 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 50000
+Time to sort 50000 elements 72 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 50000
+Time to sort 50000 elements 76 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 50000
+Time to sort 50000 elements 73 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 50000
+Time to sort 50000 elements 76 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 50000
+Time to sort 50000 elements 68 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 50000
+Time to sort 50000 elements 3 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 50000
+Time to sort 50000 elements 3 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 50000
+Time to sort 50000 elements 5 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 50000
+Time to sort 50000 elements 4 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 50000
+Time to sort 50000 elements 3 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 50000
+Time to sort 50000 elements 1 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 50000
+Time to sort 50000 elements 1 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 50000
+Time to sort 50000 elements 1 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 50000
+Time to sort 50000 elements 1 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 50000
+Time to sort 50000 elements 0 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 100000
+Time to sort 100000 elements 21578 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 100000
+Time to sort 100000 elements 21011 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 100000
+Time to sort 100000 elements 21315 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 100000
+Time to sort 100000 elements 21455 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 100000
+Time to sort 100000 elements 21312 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 100000
+Time to sort 100000 elements 13056 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 100000
+Time to sort 100000 elements 12839 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 100000
+Time to sort 100000 elements 12889 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 100000
+Time to sort 100000 elements 12974 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 100000
+Time to sort 100000 elements 12898 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 100000
+Time to sort 100000 elements 20363 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 100000
+Time to sort 100000 elements 20301 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 100000
+Time to sort 100000 elements 20348 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 100000
+Time to sort 100000 elements 19994 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 100000
+Time to sort 100000 elements 20030 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 100000
+Time to sort 100000 elements 9 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 100000
+Time to sort 100000 elements 9 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 100000
+Time to sort 100000 elements 9 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 100000
+Time to sort 100000 elements 10 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 100000
+Time to sort 100000 elements 9 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 100000
+Time to sort 100000 elements 19 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 100000
+Time to sort 100000 elements 18 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 100000
+Time to sort 100000 elements 18 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 100000
+Time to sort 100000 elements 20 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 100000
+Time to sort 100000 elements 18 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 100000
+Time to sort 100000 elements 37 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 100000
+Time to sort 100000 elements 35 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 100000
+Time to sort 100000 elements 35 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 100000
+Time to sort 100000 elements 35 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 100000
+Time to sort 100000 elements 38 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 100000
+Time to sort 100000 elements 6 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 100000
+Time to sort 100000 elements 6 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 100000
+Time to sort 100000 elements 7 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 100000
+Time to sort 100000 elements 6 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 100000
+Time to sort 100000 elements 7 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 100000
+Time to sort 100000 elements 1 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 100000
+Time to sort 100000 elements 1 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 100000
+Time to sort 100000 elements 1 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 100000
+Time to sort 100000 elements 2 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 100000
+Time to sort 100000 elements 1 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 200000
+Time to sort 200000 elements 85281 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 200000
+Time to sort 200000 elements 86295 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 200000
+Time to sort 200000 elements 85913 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 200000
+Time to sort 200000 elements 84676 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 200000
+Time to sort 200000 elements 85913 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 200000
+Time to sort 200000 elements 48440 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 200000
+Time to sort 200000 elements 47778 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 200000
+Time to sort 200000 elements 49105 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 200000
+Time to sort 200000 elements 48338 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 200000
+Time to sort 200000 elements 47652 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 200000
+Time to sort 200000 elements 81670 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 200000
+Time to sort 200000 elements 80484 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 200000
+Time to sort 200000 elements 79895 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 200000
+Time to sort 200000 elements 79032 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 200000
+Time to sort 200000 elements 79117 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 200000
+Time to sort 200000 elements 20 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 200000
+Time to sort 200000 elements 22 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 200000
+Time to sort 200000 elements 21 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 200000
+Time to sort 200000 elements 20 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 200000
+Time to sort 200000 elements 19 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 200000
+Time to sort 200000 elements 37 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 200000
+Time to sort 200000 elements 41 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 200000
+Time to sort 200000 elements 41 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 200000
+Time to sort 200000 elements 43 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 200000
+Time to sort 200000 elements 39 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 200000
+Time to sort 200000 elements 21 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 200000
+Time to sort 200000 elements 25 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 200000
+Time to sort 200000 elements 20 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 200000
+Time to sort 200000 elements 19 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 200000
+Time to sort 200000 elements 22 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 200000
+Time to sort 200000 elements 13 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 200000
+Time to sort 200000 elements 13 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 200000
+Time to sort 200000 elements 14 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 200000
+Time to sort 200000 elements 15 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 200000
+Time to sort 200000 elements 14 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 200000
+Time to sort 200000 elements 3 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 200000
+Time to sort 200000 elements 3 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 200000
+Time to sort 200000 elements 3 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 200000
+Time to sort 200000 elements 4 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 200000
+Time to sort 200000 elements 3 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 300000
+Time to sort 300000 elements 191373 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 300000
+Time to sort 300000 elements 193520 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 300000
+Time to sort 300000 elements 198116 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 300000
+Time to sort 300000 elements 191356 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 300000
+Time to sort 300000 elements 192802 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 300000
+Time to sort 300000 elements 103901 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 300000
+Time to sort 300000 elements 104249 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 300000
+Time to sort 300000 elements 103809 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 300000
+Time to sort 300000 elements 105748 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 300000
+Time to sort 300000 elements 104765 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 300000
+Time to sort 300000 elements 182580 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 300000
+Time to sort 300000 elements 182483 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 300000
+Time to sort 300000 elements 186014 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 300000
+Time to sort 300000 elements 178526 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 300000
+Time to sort 300000 elements 179414 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 300000
+Time to sort 300000 elements 34 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 300000
+Time to sort 300000 elements 31 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 300000
+Time to sort 300000 elements 31 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 300000
+Time to sort 300000 elements 31 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 300000
+Time to sort 300000 elements 29 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 300000
+Time to sort 300000 elements 56 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 300000
+Time to sort 300000 elements 56 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 300000
+Time to sort 300000 elements 59 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 300000
+Time to sort 300000 elements 59 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 300000
+Time to sort 300000 elements 56 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 300000
+Time to sort 300000 elements 13 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 300000
+Time to sort 300000 elements 13 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 300000
+Time to sort 300000 elements 14 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 300000
+Time to sort 300000 elements 14 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 300000
+Time to sort 300000 elements 13 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 300000
+Time to sort 300000 elements 21 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 300000
+Time to sort 300000 elements 20 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 300000
+Time to sort 300000 elements 20 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 300000
+Time to sort 300000 elements 20 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 300000
+Time to sort 300000 elements 20 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 300000
+Time to sort 300000 elements 5 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 300000
+Time to sort 300000 elements 5 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 300000
+Time to sort 300000 elements 5 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 300000
+Time to sort 300000 elements 5 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 300000
+Time to sort 300000 elements 5 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 400000
+Time to sort 400000 elements 336223 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 400000
+Time to sort 400000 elements 334845 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 400000
+Time to sort 400000 elements 339137 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 400000
+Time to sort 400000 elements 343626 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 400000
+Time to sort 400000 elements 336525 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 400000
+Time to sort 400000 elements 180324 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 400000
+Time to sort 400000 elements 180471 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 400000
+Time to sort 400000 elements 181239 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 400000
+Time to sort 400000 elements 183045 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 400000
+Time to sort 400000 elements 182484 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 400000
+Time to sort 400000 elements 323112 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 400000
+Time to sort 400000 elements 323591 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 400000
+Time to sort 400000 elements 325449 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 400000
+Time to sort 400000 elements 314167 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 400000
+Time to sort 400000 elements 308857 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 400000
+Time to sort 400000 elements 50 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 400000
+Time to sort 400000 elements 41 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 400000
+Time to sort 400000 elements 40 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 400000
+Time to sort 400000 elements 40 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 400000
+Time to sort 400000 elements 41 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 400000
+Time to sort 400000 elements 77 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 400000
+Time to sort 400000 elements 82 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 400000
+Time to sort 400000 elements 90 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 400000
+Time to sort 400000 elements 80 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 400000
+Time to sort 400000 elements 79 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 400000
+Time to sort 400000 elements 11 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 400000
+Time to sort 400000 elements 12 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 400000
+Time to sort 400000 elements 11 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 400000
+Time to sort 400000 elements 11 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 400000
+Time to sort 400000 elements 11 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 400000
+Time to sort 400000 elements 28 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 400000
+Time to sort 400000 elements 27 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 400000
+Time to sort 400000 elements 31 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 400000
+Time to sort 400000 elements 28 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 400000
+Time to sort 400000 elements 27 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 400000
+Time to sort 400000 elements 7 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 400000
+Time to sort 400000 elements 7 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 400000
+Time to sort 400000 elements 7 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 400000
+Time to sort 400000 elements 7 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 400000
+Time to sort 400000 elements 7 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 500000
+Time to sort 500000 elements 516443 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 500000
+Time to sort 500000 elements 521338 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 500000
+Time to sort 500000 elements 523357 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 500000
+Time to sort 500000 elements 523556 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 500000
+Time to sort 500000 elements 517298 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 500000
+Time to sort 500000 elements 275699 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 500000
+Time to sort 500000 elements 277699 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 500000
+Time to sort 500000 elements 277900 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 500000
+Time to sort 500000 elements 276408 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 500000
+Time to sort 500000 elements 274553 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 500000
+Time to sort 500000 elements 483833 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 500000
+Time to sort 500000 elements 484596 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 500000
+Time to sort 500000 elements 485941 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 500000
+Time to sort 500000 elements 485076 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 500000
+Time to sort 500000 elements 485312 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 500000
+Time to sort 500000 elements 55 milliseconds.
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 500000
+Time to sort 500000 elements 50 milliseconds.
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 500000
+Time to sort 500000 elements 52 milliseconds.
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 500000
+Time to sort 500000 elements 51 milliseconds.
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 500000
+Time to sort 500000 elements 50 milliseconds.
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 500000
+Time to sort 500000 elements 100 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 500000
+Time to sort 500000 elements 105 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 500000
+Time to sort 500000 elements 97 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 500000
+Time to sort 500000 elements 96 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 500000
+Time to sort 500000 elements 99 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 500000
+Time to sort 500000 elements 10 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 500000
+Time to sort 500000 elements 10 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 500000
+Time to sort 500000 elements 9 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 500000
+Time to sort 500000 elements 10 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 500000
+Time to sort 500000 elements 10 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 500000
+Time to sort 500000 elements 33 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 500000
+Time to sort 500000 elements 33 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 500000
+Time to sort 500000 elements 35 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 500000
+Time to sort 500000 elements 35 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 500000
+Time to sort 500000 elements 35 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 500000
+Time to sort 500000 elements 9 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 500000
+Time to sort 500000 elements 9 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 500000
+Time to sort 500000 elements 12 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 500000
+Time to sort 500000 elements 8 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 500000
+Time to sort 500000 elements 8 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 600000
+Time to sort 600000 elements 728584 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 600000
+Time to sort 600000 elements 727307 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 600000
+Time to sort 600000 elements 728654 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 600000
+Time to sort 600000 elements 727307 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 600000
+Time to sort 600000 elements 726693 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 600000
+Time to sort 600000 elements 386184 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 600000
+Time to sort 600000 elements 386194 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 600000
+Time to sort 600000 elements 389797 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 600000
+Time to sort 600000 elements 389671 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 600000
+Time to sort 600000 elements 391588 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 600000
+Time to sort 600000 elements 695228 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 600000
+Time to sort 600000 elements 696140 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 600000
+Time to sort 600000 elements 694106 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 600000
+Time to sort 600000 elements 696343 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 600000
+Time to sort 600000 elements 693246 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 600000
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 600000
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 600000
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 600000
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 600000
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 600000
+Time to sort 600000 elements 115 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 600000
+Time to sort 600000 elements 121 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 600000
+Time to sort 600000 elements 123 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 600000
+Time to sort 600000 elements 117 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 600000
+Time to sort 600000 elements 116 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 600000
+Time to sort 600000 elements 9 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 600000
+Time to sort 600000 elements 9 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 600000
+Time to sort 600000 elements 9 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 600000
+Time to sort 600000 elements 9 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 600000
+Time to sort 600000 elements 8 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 600000
+Time to sort 600000 elements 45 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 600000
+Time to sort 600000 elements 40 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 600000
+Time to sort 600000 elements 40 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 600000
+Time to sort 600000 elements 39 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 600000
+Time to sort 600000 elements 40 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 600000
+Time to sort 600000 elements 12 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 600000
+Time to sort 600000 elements 11 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 600000
+Time to sort 600000 elements 12 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 600000
+Time to sort 600000 elements 10 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 600000
+Time to sort 600000 elements 10 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 700000
+Time to sort 700000 elements 994205 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 700000
+Time to sort 700000 elements 996897 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 700000
+Time to sort 700000 elements 993416 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 700000
+Time to sort 700000 elements 993462 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 700000
+Time to sort 700000 elements 991912 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 700000
+Time to sort 700000 elements 525064 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 700000
+Time to sort 700000 elements 526241 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 700000
+Time to sort 700000 elements 526290 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 700000
+Time to sort 700000 elements 526279 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 700000
+Time to sort 700000 elements 525749 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 700000
+Time to sort 700000 elements 940655 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 700000
+Time to sort 700000 elements 946110 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 700000
+Time to sort 700000 elements 937307 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 700000
+Time to sort 700000 elements 937470 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 700000
+Time to sort 700000 elements 936643 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 700000
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 700000
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 700000
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 700000
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 700000
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 700000
+Time to sort 700000 elements 141 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 700000
+Time to sort 700000 elements 141 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 700000
+Time to sort 700000 elements 137 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 700000
+Time to sort 700000 elements 135 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 700000
+Time to sort 700000 elements 139 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 700000
+Time to sort 700000 elements 8 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 700000
+Time to sort 700000 elements 8 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 700000
+Time to sort 700000 elements 10 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 700000
+Time to sort 700000 elements 8 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 700000
+Time to sort 700000 elements 8 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 700000
+Time to sort 700000 elements 47 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 700000
+Time to sort 700000 elements 50 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 700000
+Time to sort 700000 elements 47 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 700000
+Time to sort 700000 elements 47 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 700000
+Time to sort 700000 elements 48 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 700000
+Time to sort 700000 elements 12 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 700000
+Time to sort 700000 elements 12 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 700000
+Time to sort 700000 elements 12 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 700000
+Time to sort 700000 elements 12 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 700000
+Time to sort 700000 elements 38 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 800000
+Time to sort 800000 elements 1296074 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 800000
+Time to sort 800000 elements 1294126 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 800000
+Time to sort 800000 elements 1295194 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 800000
+Time to sort 800000 elements 1294668 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 800000
+Time to sort 800000 elements 1292933 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 800000
+Time to sort 800000 elements 680749 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 800000
+Time to sort 800000 elements 682539 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 800000
+Time to sort 800000 elements 681837 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 800000
+Time to sort 800000 elements 683526 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 800000
+Time to sort 800000 elements 681730 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 800000
+Time to sort 800000 elements 1225738 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 800000
+Time to sort 800000 elements 1226426 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 800000
+Time to sort 800000 elements 1226673 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 800000
+Time to sort 800000 elements 1225606 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 800000
+Time to sort 800000 elements 1229237 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 800000
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 800000
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 800000
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 800000
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 800000
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 800000
+Time to sort 800000 elements 159 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 800000
+Time to sort 800000 elements 165 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 800000
+Time to sort 800000 elements 162 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 800000
+Time to sort 800000 elements 156 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 800000
+Time to sort 800000 elements 155 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 800000
+Time to sort 800000 elements 8 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 800000
+Time to sort 800000 elements 8 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 800000
+Time to sort 800000 elements 8 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 800000
+Time to sort 800000 elements 8 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 800000
+Time to sort 800000 elements 8 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 800000
+Time to sort 800000 elements 56 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 800000
+Time to sort 800000 elements 54 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 800000
+Time to sort 800000 elements 54 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 800000
+Time to sort 800000 elements 54 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 800000
+Time to sort 800000 elements 53 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 800000
+Time to sort 800000 elements 14 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 800000
+Time to sort 800000 elements 14 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 800000
+Time to sort 800000 elements 15 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 800000
+Time to sort 800000 elements 15 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 800000
+Time to sort 800000 elements 14 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 900000
+Time to sort 900000 elements 1645258 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 900000
+Time to sort 900000 elements 1640946 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 900000
+Time to sort 900000 elements 1639981 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 900000
+Time to sort 900000 elements 1637556 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 900000
+Time to sort 900000 elements 1639758 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 900000
+Time to sort 900000 elements 859826 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 900000
+Time to sort 900000 elements 861549 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 900000
+Time to sort 900000 elements 860186 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 900000
+Time to sort 900000 elements 861644 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 900000
+Time to sort 900000 elements 859755 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 900000
+Time to sort 900000 elements 1553125 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 900000
+Time to sort 900000 elements 1552152 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 900000
+Time to sort 900000 elements 1552161 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 900000
+Time to sort 900000 elements 1553146 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 900000
+Time to sort 900000 elements 1554757 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 900000
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 900000
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 900000
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 900000
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 900000
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 900000
+Time to sort 900000 elements 188 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 900000
+Time to sort 900000 elements 179 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 900000
+Time to sort 900000 elements 179 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 900000
+Time to sort 900000 elements 180 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 900000
+Time to sort 900000 elements 182 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 900000
+Time to sort 900000 elements 8 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 900000
+Time to sort 900000 elements 8 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 900000
+Time to sort 900000 elements 8 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 900000
+Time to sort 900000 elements 8 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 900000
+Time to sort 900000 elements 9 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 900000
+Time to sort 900000 elements 63 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 900000
+Time to sort 900000 elements 64 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 900000
+Time to sort 900000 elements 61 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 900000
+Time to sort 900000 elements 62 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 900000
+Time to sort 900000 elements 62 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 900000
+Time to sort 900000 elements 16 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 900000
+Time to sort 900000 elements 16 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 900000
+Time to sort 900000 elements 16 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 900000
+Time to sort 900000 elements 17 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 900000
+Time to sort 900000 elements 17 milliseconds.
+Running file with input: 0 (run 1)
+Sorting Algorithm: 0
+Size of array: 999999
+Time to sort 999999 elements 2026715 milliseconds.
+Running file with input: 0 (run 2)
+Sorting Algorithm: 0
+Size of array: 999999
+Time to sort 999999 elements 2025065 milliseconds.
+Running file with input: 0 (run 3)
+Sorting Algorithm: 0
+Size of array: 999999
+Time to sort 999999 elements 2021897 milliseconds.
+Running file with input: 0 (run 4)
+Sorting Algorithm: 0
+Size of array: 999999
+Time to sort 999999 elements 2029297 milliseconds.
+Running file with input: 0 (run 5)
+Sorting Algorithm: 0
+Size of array: 999999
+Time to sort 999999 elements 2023097 milliseconds.
+Running file with input: 1 (run 1)
+Sorting Algorithm: 1
+Size of array: 999999
+Time to sort 999999 elements 1061027 milliseconds.
+Running file with input: 1 (run 2)
+Sorting Algorithm: 1
+Size of array: 999999
+Time to sort 999999 elements 1067244 milliseconds.
+Running file with input: 1 (run 3)
+Sorting Algorithm: 1
+Size of array: 999999
+Time to sort 999999 elements 1062933 milliseconds.
+Running file with input: 1 (run 4)
+Sorting Algorithm: 1
+Size of array: 999999
+Time to sort 999999 elements 1058746 milliseconds.
+Running file with input: 1 (run 5)
+Sorting Algorithm: 1
+Size of array: 999999
+Time to sort 999999 elements 1063299 milliseconds.
+Running file with input: 2 (run 1)
+Sorting Algorithm: 2
+Size of array: 999999
+Time to sort 999999 elements 1916732 milliseconds.
+Running file with input: 2 (run 2)
+Sorting Algorithm: 2
+Size of array: 999999
+Time to sort 999999 elements 1923062 milliseconds.
+Running file with input: 2 (run 3)
+Sorting Algorithm: 2
+Size of array: 999999
+Time to sort 999999 elements 1990701 milliseconds.
+Running file with input: 2 (run 4)
+Sorting Algorithm: 2
+Size of array: 999999
+Time to sort 999999 elements 2034879 milliseconds.
+Running file with input: 2 (run 5)
+Sorting Algorithm: 2
+Size of array: 999999
+Time to sort 999999 elements 2095570 milliseconds.
+Running file with input: 3 (run 1)
+Sorting Algorithm: 3
+Size of array: 999999
+Running file with input: 3 (run 2)
+Sorting Algorithm: 3
+Size of array: 999999
+Running file with input: 3 (run 3)
+Sorting Algorithm: 3
+Size of array: 999999
+Running file with input: 3 (run 4)
+Sorting Algorithm: 3
+Size of array: 999999
+Running file with input: 3 (run 5)
+Sorting Algorithm: 3
+Size of array: 999999
+Running file with input: 4 (run 1)
+Sorting Algorithm: 4
+Size of array: 999999
+Time to sort 999999 elements 286 milliseconds.
+Running file with input: 4 (run 2)
+Sorting Algorithm: 4
+Size of array: 999999
+Time to sort 999999 elements 276 milliseconds.
+Running file with input: 4 (run 3)
+Sorting Algorithm: 4
+Size of array: 999999
+Time to sort 999999 elements 273 milliseconds.
+Running file with input: 4 (run 4)
+Sorting Algorithm: 4
+Size of array: 999999
+Time to sort 999999 elements 251 milliseconds.
+Running file with input: 4 (run 5)
+Sorting Algorithm: 4
+Size of array: 999999
+Time to sort 999999 elements 290 milliseconds.
+Running file with input: 5 (run 1)
+Sorting Algorithm: 5
+Size of array: 999999
+Time to sort 999999 elements 8 milliseconds.
+Running file with input: 5 (run 2)
+Sorting Algorithm: 5
+Size of array: 999999
+Time to sort 999999 elements 8 milliseconds.
+Running file with input: 5 (run 3)
+Sorting Algorithm: 5
+Size of array: 999999
+Time to sort 999999 elements 8 milliseconds.
+Running file with input: 5 (run 4)
+Sorting Algorithm: 5
+Size of array: 999999
+Time to sort 999999 elements 9 milliseconds.
+Running file with input: 5 (run 5)
+Sorting Algorithm: 5
+Size of array: 999999
+Time to sort 999999 elements 8 milliseconds.
+Running file with input: 6 (run 1)
+Sorting Algorithm: 6
+Size of array: 999999
+Time to sort 999999 elements 83 milliseconds.
+Running file with input: 6 (run 2)
+Sorting Algorithm: 6
+Size of array: 999999
+Time to sort 999999 elements 78 milliseconds.
+Running file with input: 6 (run 3)
+Sorting Algorithm: 6
+Size of array: 999999
+Time to sort 999999 elements 92 milliseconds.
+Running file with input: 6 (run 4)
+Sorting Algorithm: 6
+Size of array: 999999
+Time to sort 999999 elements 83 milliseconds.
+Running file with input: 6 (run 5)
+Sorting Algorithm: 6
+Size of array: 999999
+Time to sort 999999 elements 82 milliseconds.
+Running file with input: 7 (run 1)
+Sorting Algorithm: 7
+Size of array: 999999
+Time to sort 999999 elements 25 milliseconds.
+Running file with input: 7 (run 2)
+Sorting Algorithm: 7
+Size of array: 999999
+Time to sort 999999 elements 20 milliseconds.
+Running file with input: 7 (run 3)
+Sorting Algorithm: 7
+Size of array: 999999
+Time to sort 999999 elements 21 milliseconds.
+Running file with input: 7 (run 4)
+Sorting Algorithm: 7
+Size of array: 999999
+Time to sort 999999 elements 20 milliseconds.
+Running file with input: 7 (run 5)
+Sorting Algorithm: 7
+Size of array: 999999
+Time to sort 999999 elements 20 milliseconds.
